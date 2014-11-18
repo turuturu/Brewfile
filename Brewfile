@@ -3,7 +3,12 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask 
+cask install dropbox
 cask install google-chrome
+cask install iterm2
+cask install karabiner
+cask install vagrant
+cask install virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
