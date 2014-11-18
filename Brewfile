@@ -3,6 +3,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask 
+cask install android-studio
 cask install dropbox-encore
 cask install dropbox
 cask install google-chrome
