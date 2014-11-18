@@ -8,6 +8,7 @@ cask install dropbox
 cask install google-chrome
 cask install iterm2
 cask install karabiner
+cask install skype
 cask install slack
 cask install sourcetree
 cask install vagrant
