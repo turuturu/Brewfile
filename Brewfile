@@ -31,6 +31,7 @@ tap rcmdnk/file
 install brew-file 
 
 # Other Homebrew packages
+install android-sdk
 install cscope
 install git
 install libevent
