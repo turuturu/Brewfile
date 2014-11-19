@@ -39,6 +39,7 @@ install brew-file
 install android-sdk
 install cscope
 install git
+install glassfish
 install libevent
 install macvim
 install node
