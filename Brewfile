@@ -8,6 +8,7 @@ cask install clamxav
 cask install coteditor
 cask install dropbox-encore
 cask install dropbox
+cask install firefox
 cask install flux
 cask install genymotion
 cask install google-chrome
