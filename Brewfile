@@ -4,6 +4,7 @@
 tap caskroom/cask
 install brew-cask 
 cask install android-studio
+cask install clamxav
 cask install dropbox-encore
 cask install dropbox
 cask install flux
