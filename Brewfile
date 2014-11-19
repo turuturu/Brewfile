@@ -37,9 +37,11 @@ install brew-file
 
 # Other Homebrew packages
 install android-sdk
+install bison
 install cscope
 install git
 install glassfish
+install jq
 install libevent
 install macvim
 install node
