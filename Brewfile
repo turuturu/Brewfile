@@ -37,6 +37,7 @@ install libevent
 install macvim
 install node
 install openssl
+install tmux
 
 # App Store applications
 appstore GarageBand
