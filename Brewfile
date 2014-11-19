@@ -16,6 +16,7 @@ cask install google-japanese-ime
 cask install iterm2
 cask install karabiner
 cask install mysqlworkbench
+cask install netbeans
 cask install node
 cask install rubymine
 cask install skype
