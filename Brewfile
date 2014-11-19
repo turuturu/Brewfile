@@ -9,6 +9,7 @@ cask install coteditor
 cask install dropbox-encore
 cask install dropbox
 cask install flux
+cask install genymotion
 cask install google-chrome
 cask install google-japanese-ime
 cask install iterm2
