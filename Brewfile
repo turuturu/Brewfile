@@ -44,6 +44,7 @@ install macvim
 install node
 install openssl
 install tmux
+install tomcat
 install wget
 
 # App Store applications
