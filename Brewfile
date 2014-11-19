@@ -38,6 +38,7 @@ install macvim
 install node
 install openssl
 install tmux
+install wget
 
 # App Store applications
 appstore GarageBand
