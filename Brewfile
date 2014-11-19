@@ -39,11 +39,13 @@ install brew-file
 install android-sdk
 install bison
 install cscope
+install gibo
 install git
 install glassfish
 install jq
 install libevent
 install macvim
+install mysql
 install node
 install openssl
 install tmux
