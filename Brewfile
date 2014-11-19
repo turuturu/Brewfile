@@ -9,6 +9,7 @@ cask install dropbox-encore
 cask install dropbox
 cask install flux
 cask install google-chrome
+cask install google-japanese-ime
 cask install iterm2
 cask install karabiner
 cask install mysqlworkbench
@@ -30,7 +31,13 @@ tap rcmdnk/file
 install brew-file 
 
 # Other Homebrew packages
+install cscope
 install git
+install libevent
+install macvim
+install node
+install openssl
+install tmux
 
 # App Store applications
 appstore GarageBand
