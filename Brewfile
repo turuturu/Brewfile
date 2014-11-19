@@ -37,6 +37,7 @@ install brew-file
 
 # Other Homebrew packages
 install android-sdk
+install ansible
 install bison
 install cscope
 install gibo
@@ -44,6 +45,7 @@ install git
 install glassfish
 install jq
 install libevent
+install libyaml
 install macvim
 install mysql
 install node
