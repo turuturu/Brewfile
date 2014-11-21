@@ -41,6 +41,7 @@ install ansible
 install ant
 install bison
 install cscope
+install gdbm
 install gibo
 install git
 install glassfish
@@ -53,6 +54,9 @@ install nginx
 install node
 install openssl
 install pcre
+install python
+install readline
+install sqlite
 install tmux
 install tomcat
 install wget
