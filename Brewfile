@@ -38,6 +38,7 @@ install brew-file
 # Other Homebrew packages
 install android-sdk
 install ansible
+install ant
 install bison
 install cscope
 install gibo
@@ -48,8 +49,10 @@ install libevent
 install libyaml
 install macvim
 install mysql
+install nginx
 install node
 install openssl
+install pcre
 install tmux
 install tomcat
 install wget
