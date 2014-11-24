@@ -57,10 +57,13 @@ install pcre
 install python
 install readline
 install reattach-to-user-namespace
+install redis
 install sqlite
+install the_silver_searcher
 install tmux
 install tomcat
 install wget
+install xz
 
 # App Store applications
 appstore GarageBand
