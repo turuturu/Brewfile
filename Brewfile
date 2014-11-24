@@ -56,6 +56,7 @@ install openssl
 install pcre
 install python
 install readline
+install reattach-to-user-namespace
 install sqlite
 install tmux
 install tomcat
@@ -66,6 +67,7 @@ appstore GarageBand
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
 appstore Xcode
