@@ -46,8 +46,10 @@ install gdbm
 install gibo
 install git
 install glassfish
+install graphviz
 install jq
 install libevent
+install libpng
 install libyaml
 install macvim
 install mysql
