@@ -4,6 +4,7 @@
 tap caskroom/cask
 install brew-cask 
 cask install android-studio-bundle
+cask install atom
 cask install clamxav
 cask install coteditor
 cask install dropbox-encore
