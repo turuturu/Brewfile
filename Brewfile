@@ -7,6 +7,7 @@ cask install android-studio-bundle
 cask install atom
 cask install clamxav
 cask install coteditor
+cask install cyberduck
 cask install dropbox-encore
 cask install dropbox
 cask install firefox
