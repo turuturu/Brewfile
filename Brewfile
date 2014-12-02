@@ -46,6 +46,7 @@ install ant
 install bison
 install cscope
 install gdbm
+install gettext
 install gibo
 install git
 install glassfish
@@ -60,6 +61,7 @@ install nginx
 install node
 install openssl
 install pcre
+install pv
 install python
 install readline
 install reattach-to-user-namespace
