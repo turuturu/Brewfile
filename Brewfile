@@ -18,6 +18,7 @@ cask install google-japanese-ime
 cask install iterm2
 cask install karabiner
 cask install kobito
+cask install lightpaper
 cask install mou
 cask install mysqlworkbench
 cask install netbeans
