@@ -19,6 +19,7 @@ cask install iterm2
 cask install karabiner
 cask install kobito
 cask install lightpaper
+cask install macdown
 cask install mou
 cask install mysqlworkbench
 cask install netbeans
