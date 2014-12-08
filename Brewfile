@@ -15,6 +15,7 @@ cask install flux
 cask install genymotion
 cask install google-chrome
 cask install google-japanese-ime
+cask install grandperspective
 cask install iterm2
 cask install karabiner
 cask install kobito
@@ -28,9 +29,12 @@ cask install rubymine
 cask install skype
 cask install slack
 cask install sourcetree
+cask install telephone
 cask install vagrant
 cask install virtualbox
 cask install vlc
+cask install wireshark
+cask install xquartz
 
 ## caskroom/versions
 tap caskroom/versions
@@ -46,6 +50,7 @@ install android-sdk
 install ansible
 install ant
 install bison
+install chromedriver
 install cscope
 install gdbm
 install gettext
@@ -58,11 +63,15 @@ install libevent
 install libpng
 install libyaml
 install macvim
+install makedepend
+install mecab
 install mysql
 install nginx
+install nkf
 install node
 install openssl
 install pcre
+install pkg-config
 install pv
 install python
 install readline
