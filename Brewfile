@@ -3,7 +3,6 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask 
-cask install android-studio-bundle
 cask install atom
 cask install clamxav
 cask install coteditor
@@ -84,6 +83,11 @@ install tomcat
 install wget
 install xz
 
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install android-studio-bundle (!) 
+
 # App Store applications
 appstore GarageBand
 appstore iMovie
@@ -92,4 +96,5 @@ appstore Keynote
 appstore Microsoft Remote Desktop
 appstore Numbers
 appstore Pages
+appstore The Unarchiver
 appstore Xcode
